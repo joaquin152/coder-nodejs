@@ -108,18 +108,5 @@
     "code": "26ec4c79-eab3-46ac-af76-59825d14544f",
     "stock": 100,
     "category": "Comestible"
-  },
-  {
-    "id": 12,
-    "title": "Testardoasdasd",
-    "description": "testo",
-    "price": 235,
-    "thumbnail": [
-      "Sin imagen",
-      "test"
-    ],
-    "code": "cfe931fd-5442-4caa-9624-fc68ab0abdc9",
-    "stock": 100,
-    "category": "Test"
   }
 ]
